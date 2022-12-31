@@ -1,6 +1,6 @@
 
 
-#Training Materials
+# Training Materials
 
 [Enigma Glass Documentation](https://casioking.github.io/enigmaglass/)
 
